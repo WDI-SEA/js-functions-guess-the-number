@@ -13,4 +13,4 @@ function guessTheNumber(rand) {
 
 let rand = Math.ceil(Math.random() * 10)
 
-console.log(guessTheNumber(rand))
+alert(guessTheNumber(rand))
